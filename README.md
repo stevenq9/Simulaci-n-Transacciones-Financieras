@@ -1,1 +1,2 @@
-# Simulaci-n-Transacciones-Financieras
+PROYECTO IB SISTEMAS OPERATIVOS 
+ESCUELA POLITÉCNICA NACIONAL
